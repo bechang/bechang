@@ -1,4 +1,6 @@
-## Hi there 👋
+👋 I am an Associate Professor in the Department of Computer Science and the Department of Electrical, Computer, and Energy Engineering (by courtesy) at the University of Colorado Boulder. I co-direct the Programming Languages and Verification Group (CUPLV). I am also a Scholar with Amazon.
+
+My research focuses on making software better and programmers more productive by investigating the fundamental principles and techniques needed to algorithmically assist the software developer throughout the software engineering process. Our advances seek to help users better specify what they care about, interact with automated reasoning engines, triage the alarms from tools, and leverage source code repositories to improve their software. This work is often driven the needs of today's real-world applications to ultimately inform tomorrow's designs.
 
 <!--
 **bechang/bechang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
